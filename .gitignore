@@ -1,0 +1,39 @@
+# Windows system files
+desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# Temporary test images generated during development
+test_sec4.png
+test_sec5a.png
+test_sec5b.png
+test_sec5c.png
+
+# Blank submission template (not needed — filled version is included)
+VOIS_Major_Project_PPT_Submission_Template.pptx
+
+# Project brief PDF (reference doc, not a project deliverable)
+Major Project_Seasonal Agriculture Performance Analysis..pdf
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# IDE / editor folders
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS metadata
+.DS_Store
