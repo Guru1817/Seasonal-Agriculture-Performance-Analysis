@@ -106,4 +106,4 @@ jupyter notebook Seasonal_Agriculture_Performance_Analysis.ipynb
 
 **Gurupada Nayak**  
 VOIS AICTE Batch1 2026-2027  
-gurupadpnayak@gmail.com
+gurupadanayak@hotmail.com
